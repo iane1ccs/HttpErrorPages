@@ -3,17 +3,18 @@ Simple HTTP Error Page Generator. Create a bunch of custom error pages - suitabl
 
 ![Screenshot](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/assets/screenshot1.png)
 
+## THIS IS A FORK OF A REPOSITORY BY AndiDittrich, PLEASE CHECK HIS PAGE OUT ##
 ## Demo ##
-* [HTTP400](https://andidittrich.github.io/HttpErrorPages/HTTP400.html)
-* [HTTP401](https://andidittrich.github.io/HttpErrorPages/HTTP401.html)
-* [HTTP403](https://andidittrich.github.io/HttpErrorPages/HTTP403.html)
-* [HTTP404](https://andidittrich.github.io/HttpErrorPages/HTTP404.html)
-* [HTTP500](https://andidittrich.github.io/HttpErrorPages/HTTP500.html)
-* [HTTP501](https://andidittrich.github.io/HttpErrorPages/HTTP501.html)
-* [HTTP502](https://andidittrich.github.io/HttpErrorPages/HTTP502.html)
-* [HTTP503](https://andidittrich.github.io/HttpErrorPages/HTTP503.html)
-* [HTTP520](https://andidittrich.github.io/HttpErrorPages/HTTP520.html)
-* [HTTP521](https://andidittrich.github.io/HttpErrorPages/HTTP521.html)
+* [HTTP400](https://iane1ccs.github.io/HttpErrorPages/HTTP400.html)
+* [HTTP401](https://iane1ccs.github.io/HttpErrorPages/HTTP401.html)
+* [HTTP403](https://iane1ccs.github.io/HttpErrorPages/HTTP403.html)
+* [HTTP404](https://iane1ccs.github.io/HttpErrorPages/HTTP404.html)
+* [HTTP500](https://iane1ccs.github.io/HttpErrorPages/HTTP500.html)
+* [HTTP501](https://iane1ccs.github.io/HttpErrorPages/HTTP501.html)
+* [HTTP502](https://iane1ccs.github.io/HttpErrorPages/HTTP502.html)
+* [HTTP503](https://iane1ccs.github.io/HttpErrorPages/HTTP503.html)
+* [HTTP520](https://iane1ccs.github.io/HttpErrorPages/HTTP520.html)
+* [HTTP521](https://iane1ccs.github.io/HttpErrorPages/HTTP521.html)
 
 ## Download ##
 Just clone/download the git repository **or** use the prebuild packages (only the generated html files are included)
@@ -21,16 +22,16 @@ Just clone/download the git repository **or** use the prebuild packages (only th
 ## Download Prebuild Packages (Pages only) ##
 
 **Direct Download**
-* [Download TAR Archive](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.tar)
-* [Download ZIP Archive](https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.zip)
+* [Download TAR Archive](https://raw.githubusercontent.com/iane1ccs/HttpErrorPages/master/dist/pages.tar)
+* [Download ZIP Archive](https://raw.githubusercontent.com/iane1ccs/HttpErrorPages/master/dist/pages.zip)
 
 **Shell/Bash**
 ```shell
 # TAR Archive
-wget https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.tar
+wget https://raw.githubusercontent.com/iane1ccs/HttpErrorPages/master/dist/pages.tar
 
 # ZIP Archive
-wget https://raw.githubusercontent.com/AndiDittrich/HttpErrorPages/master/dist/pages.zip
+wget https://raw.githubusercontent.com/iane1ccs/HttpErrorPages/master/dist/pages.zip
 ```
 
 ## NGINX Integration ##
